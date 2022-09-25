@@ -10,5 +10,4 @@ I'm currently working with Javascript, React, Python, and AWS. Most of my curren
 YouTube Content or Start Up Idea
 Let's connect --> epmelioris@gmail.com
 
-
-![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fevan-melioris%2F)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fevan-melioris%2F)](https://www.linkedin.com/in/evan-melioris/)
